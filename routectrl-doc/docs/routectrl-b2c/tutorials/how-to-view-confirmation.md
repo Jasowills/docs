@@ -26,11 +26,13 @@ Use navigation arrows to scroll through all available images.
 
 ![Image Navigation](../assets/step3-image.png)
 
-![Image](../assets/step3-image(2).png)
+![Image](../assets/step3-image\(2\).png)
 
 ---
+
 ### Step 4: Click the **“X”** button to exit
 
 Close the image viewer once you're done.
 
 ![Close Button](../assets/step4-image.png)
+
