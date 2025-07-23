@@ -1,4 +1,3 @@
-
 # How to Login to the Driver App
 
 Follow the steps below to log into the RouteCTRL Driver App:
@@ -42,3 +41,4 @@ Once your environment is configured, head back to the login screen.
 You’re now ready to access your RouteCTRL Driver App dashboard.
 
 ![Login Page](../assets/step5-image.png)
+
